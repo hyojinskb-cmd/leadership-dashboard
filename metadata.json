@@ -1,0 +1,5 @@
+{
+  "name": "Leadership Lens",
+  "description": "A comprehensive dashboard for team leaders to manage team performance, analyze sentiment, and receive AI-powered leadership coaching using Google Gemini.",
+  "requestFramePermissions": []
+}
