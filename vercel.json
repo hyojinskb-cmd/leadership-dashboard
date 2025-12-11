@@ -1,13 +1,9 @@
 {
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "/index.html"
-      }
-    ],
-    "build": {
-      "env": {
-        "VITE_BUILD_TARGET": "dist"
-      }
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
-  }
+  ],
+  "framework": "vite"
+}
